@@ -1,5 +1,5 @@
 # Про DevOps
-https://youtu.be/VHEiEfoHZxM
+Кто такой этот ваг DevOps - https://youtu.be/VHEiEfoHZxM
 # Git
 1) Введение - https://youtu.be/0ZGPADQf29Q
 2) Начало работы #1 - https://youtu.be/-kegdnmqM5U
@@ -15,7 +15,6 @@ https://youtu.be/VHEiEfoHZxM
 4) Немного про CLI - https://youtu.be/PnvG2DjFCRI
 5) Пользователи и права доступа - https://youtu.be/cGE64MxCswo
 6) Установка ПО - https://youtu.be/2RrmMs0FP18
-7) Работа с systemd - https://youtu.be/fmVI9Q2LavI
-8) Работа с файловой системой - https://youtu.be/DnUqaXJVdew
-9) RAID - https://youtu.be/yDqkN2ecNEU
-10) ssh - https://youtu.be/abmnnC4kZnI
+7) Работа с файловой системой - https://youtu.be/DnUqaXJVdew
+8) RAID - https://youtu.be/yDqkN2ecNEU
+9) ssh - https://youtu.be/abmnnC4kZnI
